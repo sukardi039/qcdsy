@@ -1,0 +1,12 @@
+.git
+.gitignore
+.DS_Store
+node_modules
+npm-debug.log
+.env
+.vscode
+syjc/_pgbackup
+*.swp
+*.swo
+*~
+.idea
